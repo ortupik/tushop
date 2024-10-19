@@ -1,5 +1,5 @@
+README guide on how to run Problem 1 and Problem 2 in the command terminal:
 
-```markdown
 # README
 
 ## Overview
@@ -36,7 +36,7 @@ This program determines the best distribution of goodies among employees, ensuri
    - Enter the number of jobs when prompted.
    - For each job, input the start time (in HHMM format), end time (in HHMM format), and profit sequentially.
 
-   **Example input:**
+   Example input:
    ```
    Enter the number of jobs: 3
    Enter details for job 1:
@@ -108,5 +108,4 @@ node problem2.js
 
 ## Conclusion
 
-This README provides a step-by-step guide on how to run the solutions for both problems using Node.js in a command-line terminal. Ensure you have the necessary permissions and a properly formatted input file for the goodies distribution problem.
-```
+This README provides a step-by-step guide on how to run the solutions for both problems using Node.js in a command-line terminal. 
