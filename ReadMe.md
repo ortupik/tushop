@@ -1,4 +1,5 @@
-``` markdown
+
+```markdown
 # README
 
 ## Overview
@@ -108,5 +109,4 @@ node problem2.js
 ## Conclusion
 
 This README provides a step-by-step guide on how to run the solutions for both problems using Node.js in a command-line terminal. Ensure you have the necessary permissions and a properly formatted input file for the goodies distribution problem.
-
 ```
