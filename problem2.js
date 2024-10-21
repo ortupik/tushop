@@ -54,7 +54,7 @@ rl.question('Please enter the input file name: ', (fileName) => {
                              `\nAnd the difference between the chosen goodie with highest price and the lowest price is ${result.smallestDifference}`;
 
         // Write output to a file
-        fs.writeFileSync('sample_output.txt', resultOutput);  // Save the output to a file
+        fs.writeFileSync(fileName+'_output.txt', resultOutput);  // Save the output to a file
         console.log(resultOutput);  // Print the result
 
         rl.close();  // Close the input interface
